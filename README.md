@@ -45,6 +45,7 @@ cd getnf
 |ct?| change change up to the question mark  |
 |s| substitute from where you are to the next command (noun)  |
 |S| substitute the entire current line|
+|:6,10s/foo/bar/g| replace on specific lines |
 
 ## File Operations  
 | Command | Description |
